@@ -11,10 +11,12 @@
 
 
 ---
+👨‍💻 Soy estudiante de Desarrollo de Software, con interés en el desarrollo backend, tecnologías cloud e infraestructura.  
 
-👨‍💻 Soy estudiante de Desarrollo de Software, con interés en el desarrollo backend, tecnologías cloud e infraestructura.
-💬 Exploro áreas como el desarrollo de chatbots, DevOps y arquitectura de sistemas a través de proyectos académicos y personales.
-🚀 Siempre estoy abierta a colaborar en proyectos que generen impacto y me ayuden a seguir creciendo profesionalmente.
+💬 Exploro áreas como el desarrollo de chatbots, DevOps y arquitectura de sistemas a través de proyectos académicos y personales.  
+
+🚀 Siempre estoy abierta a colaborar en proyectos que generen impacto y me ayuden a seguir creciendo profesionalmente.  
+
 
 ## 🛠 &nbsp;Tech Stack
 
